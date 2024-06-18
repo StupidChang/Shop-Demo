@@ -1,0 +1,82 @@
+[
+    {
+        "id": "21",
+        "name": "女裝 DRY迷你T恤(短袖) 349897",
+        "price": "290",
+        "size": ["XS","S", "M", "L", "XL", "XXL", "3XL"],
+        "rating": 4.4,
+        "ImageLocal": "WomenTop/21.avif"
+    },
+    {
+        "id": "22",
+        "name": "女裝 棉質光澤圓領T恤(短袖) 349059",
+        "price": "290",
+        "size": ["XS", "S", "M",  "L", "XXL", "3XL"],
+        "rating": 4.9,
+        "ImageLocal": "WomenTop/22.avif"
+    },
+    {
+        "id": "23",
+        "name": "女裝 棉質圓領T恤(短袖) 344433",
+        "price": "190",
+        "size": ["XS"],
+        "rating": 4.9,
+        "ImageLocal": "WomenTop/23.jpg"
+    },
+    {
+        "id": "24",
+        "name": "女裝 垂墜襯衫(短袖)(接觸涼感) 349240",
+        "price": "390",
+        "size": ["XS", "S", "M", "L", "XL", "XXL", "3XL"],
+        "rating": 4.7,
+        "ImageLocal": "WomenTop/24.avif"
+    },
+    {
+        "id": "25",
+        "name": "女裝 DRY寬版T恤(5分袖) 349898",
+        "price": "290",
+        "size": ["XS", "S", "M", "L", "XL", "XXL", "3XL"],
+        "rating": 4.9,
+        "ImageLocal": "WomenTop/25.avif"
+    },
+    {
+        "id": "26",
+        "name": "女裝 透膚T恤(短袖) 350559",
+        "price": "390",
+        "size": ["XS","S","M","L", "XL", "XXL"],
+        "rating": 4.6,
+        "ImageLocal": "WomenTop/26.avif"
+    },
+    {
+        "id": "27",
+        "name": "女裝 羅紋迷你T恤(短袖)+E 349896",
+        "price": "290",
+        "size": ["XS","S","M", "L", "XL", "XXL", "3XL"],
+        "rating": 5.0,
+        "ImageLocal": "WomenTop/27.avif"
+    },
+    {
+        "id": "28",
+        "name": "女裝 棉質光澤V領T恤(短袖)+E 350717",
+        "price": "290",
+        "size": ["XS", "S", "M", "L", "XL", "XXL", "3XL"],
+        "rating": 4.0,
+        "ImageLocal": "WomenTop/28.avif"
+    },
+    {
+        "id": "29",
+        "name": "女裝 垂墜立領襯衫(短袖)(接觸涼感) 349241",
+        "price": "390",
+        "size": [ "XS", "S", "M", "L", "XL", "XXL", "3XL"],
+        "rating": 4.6,
+        "ImageLocal": "WomenTop/29.avif"
+    },
+    {
+        "id": "30",
+        "name": "女裝 腰部抽繩T恤(5分袖) 349886",
+        "price": "390",
+        "size": [ "XS", "S", "M", "L", "XL", "XXL", "3XL"],
+        "rating": 5.0,
+        "ImageLocal": "WomenTop/30.avif"
+    }
+]

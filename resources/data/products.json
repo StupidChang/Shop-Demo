@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "name": "男裝 DRY開領襯衫(5分袖)SW+E(成套穿搭推薦) 349079",
+        "price": "590",
+        "size": ["S", "M", "L", "XL"],
+        "rating": 4.5,
+        "ImageLocal": "Mentop/1.jpg"
+    },
+    {
+        "id": "2",
+        "name": "男裝 印花T恤(短袖)MOVIE(E.T.外星人)4 351070",
+        "price": "490",
+        "size": ["M", "L", "XL", "XXL"],
+        "rating": 4.1,
+        "ImageLocal": "Mentop/2.jpg"
+    },
+    {
+        "id": "3",
+        "name": "男裝 無袖T恤MUSIC(Public Image Ltd.) 2 351042",
+        "price": "490",
+        "size": ["L", "XL"],
+        "rating": 4.8,
+        "ImageLocal": "Mentop/3.jpg"
+    },
+    {
+        "id": "4",
+        "name": "男裝 無袖T恤MUSIC(Public Image Ltd.) 1 350272",
+        "price": "490",
+        "size": ["S", "M", "L", "XL", "XXL"],
+        "rating": 4.2,
+        "ImageLocal": "Mentop/4.jpg"
+    },
+    {
+        "id": "5",
+        "name": "男裝 男女適穿-休閒風T恤(5分袖) 349488",
+        "price": "290",
+        "size": ["S", "L", "XL", "XXL"],
+        "rating": 3.9,
+        "ImageLocal": "Mentop/5.jpg"
+    },
+    {
+        "id": "6",
+        "name": "男裝 印花T恤(短袖)MOVIE(回到未來)3 351069",
+        "price": "490",
+        "size": ["L", "XL"],
+        "rating": 3.8,
+        "ImageLocal": "Mentop/6.jpg"
+    },
+    {
+        "id": "7",
+        "name": "男裝 男女適穿-DRY開領襯衫(5分袖) 344935",
+        "price": "590",
+        "size": ["M", "L", "XL"],
+        "rating": 5.0,
+        "ImageLocal": "Mentop/7.avif"
+    },
+    {
+        "id": "8",
+        "name": "男裝 尼龍彈性襯衫(5分袖)SW+E(成套穿搭推薦) 350596",
+        "price": "790",
+        "size": ["XS", "S", "L", "XL"],
+        "rating": 4.9,
+        "ImageLocal": "Mentop/8.jpg"
+    },
+    {
+        "id": "9",
+        "name": "男裝 印花T恤(5分袖) UNDERCOVER 1 351036",
+        "price": "490",
+        "size": ["XS", "S", "M", "L", "XL", "XXL"],
+        "rating": 4.0,
+        "ImageLocal": "Mentop/9.avif"
+    },
+    {
+        "id": "10",
+        "name": "男裝 印花T恤(短袖)小圖案2 OSB+EC 350730",
+        "price": "490",
+        "size": ["S", "M", "L"],
+        "rating": 3.3,
+        "ImageLocal": "Mentop/10.avif"
+    }
+]

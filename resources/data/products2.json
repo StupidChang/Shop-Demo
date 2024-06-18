@@ -1,0 +1,82 @@
+[
+    {
+        "id": "11",
+        "name": "男裝 男女適穿-DRY彈性束口褲GA B 351050",
+        "price": "490",
+        "size": ["XS","S", "M", "L", "XL", "XXL"],
+        "rating": 2.0,
+        "ImageLocal": "MenDown/11.jpg"
+    },
+    {
+        "id": "12",
+        "name": "男裝 網路獨家-DRY彈性束口褲GA+EC (褲長稍長:76cm) 347431",
+        "price": "490",
+        "size": ["XS", "S", "M", "XXL"],
+        "rating": 5.0,
+        "ImageLocal": "MenDown/12.avif"
+    },
+    {
+        "id": "13",
+        "name": "男裝 網路獨家-chef pants主廚褲(褲長稍長:79cm) 351127",
+        "price": "690",
+        "size": ["XS", "S", "M","L", "XL", "XXL", "3XL"],
+        "rating": 4.8,
+        "ImageLocal": "MenDown/13.jpg"
+    },
+    {
+        "id": "14",
+        "name": "男裝 男女適穿-超寬版工作褲 349056",
+        "price": "990",
+        "size": ["XS", "S", "M", "L", "XL", "XXL", "3XL"],
+        "rating": 4.7,
+        "ImageLocal": "MenDown/14.avif"
+    },
+    {
+        "id": "15",
+        "name": "男裝 男女適穿-Chefshorts主廚短褲 344719",
+        "price": "490",
+        "size": ["XS", "S","M", "L", "XL", "XXL"],
+        "rating": 4.9,
+        "ImageLocal": "MenDown/15.avif"
+    },
+    {
+        "id": "16",
+        "name": "男裝 男女適穿-尼龍工作短褲(成套穿搭推薦) 349142",
+        "price": "790",
+        "size": ["XS","S","M","L", "XL", "XXL", "3XL"],
+        "rating": 4.9,
+        "ImageLocal": "MenDown/16.avif"
+    },
+    {
+        "id": "17",
+        "name": "男裝 男女適穿-休閒及膝短褲 344718",
+        "price": "490",
+        "size": ["XS","S","M", "L", "XL", "XXL"],
+        "rating": 3.5,
+        "ImageLocal": "MenDown/17.avif"
+    },
+    {
+        "id": "18",
+        "name": "男裝 男女適穿-降落傘褲(成套穿搭推薦) 349117",
+        "price": "990",
+        "size": ["XS", "S", "M", "L", "XL", "XXL", "3XL"],
+        "rating": 4.1,
+        "ImageLocal": "MenDown/18.avif"
+    },
+    {
+        "id": "19",
+        "name": "男裝 男女適穿-超寬版牛仔直筒褲 350439",
+        "price": "390",
+        "size": [ "L", "XL"],
+        "rating": 5.0,
+        "ImageLocal": "MenDown/19.jpg"
+    },
+    {
+        "id": "20",
+        "name": "男裝 2WAY直升機褲 UNDERCOVER 351031",
+        "price": "790",
+        "size": ["S"],
+        "rating": 4.6,
+        "ImageLocal": "MenDown/20.jpg"
+    }
+]

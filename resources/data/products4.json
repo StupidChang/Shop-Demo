@@ -1,0 +1,74 @@
+[
+    {
+        "id": "31",
+        "name": "女裝 輕型牛仔寬褲(褲長標準) 349512",
+        "price": "790",
+        "size": ["XS", "S", "M", "L", "XL", "XXL", "3XL"],
+        "rating": 4.6,
+        "ImageLocal": "WomenDown/31.jpg"
+    },
+    {
+        "id": "32",
+        "name": "女裝 羅紋輕便褲 344668",
+        "price": "790",
+        "size": ["XS", "S", "M", "L", "XL"],
+        "rating": 5.0,
+        "ImageLocal": "WomenDown/32.avif"
+    },
+    {
+        "id": "33",
+        "name": "女裝 輕型降落傘褲(接觸涼感)(褲長標準) 349949",
+        "price": "990",
+        "size": ["XS", "S", "M", "L", "XL", "XXL", "3XL"],
+        "rating": 4.9,
+        "ImageLocal": "WomenDown/33.avif"
+    },
+    {
+        "id": "34",
+        "name": "女裝 繭型輕便褲(褲長標準:67.5～71.5cm) 350809",
+        "price": "890",
+        "size": ["XS", "S", "M", "L", "XL", "XXL", "3XL"],
+        "rating": 4.9,
+        "ImageLocal": "WomenDown/34.avif"
+    },
+    {
+        "id": "35",
+        "name": "女裝 降落傘工作褲(大口袋設計)(褲長標準:70～74cm) 350988",
+        "price": "990",
+        "size": ["XS", "S", "M", "L", "XL", "XXL", "3XL"],
+        "rating": 4.9,
+        "ImageLocal": "WomenDown/35.avif"
+    },
+    {
+        "id": "36",
+        "name": "女裝 打摺寬褲(褲長標準) 349940",
+        "price": "790",
+        "size": ["XS", "S", "M", "L", "XL", "XXL", "3XL"],
+        "rating": 4.8,
+        "ImageLocal": "WomenDown/36.avif"
+    },
+    {
+        "id": "37",
+        "name": "女裝 網路獨家-輕型降落傘褲A+EC(接觸涼感)(褲長稍長:77～79cm) 349959",
+        "price": "990",
+        "size": ["XS", "S",  "M", "L", "XL", "XXL"],
+        "rating": 4.9,
+        "ImageLocal": "WomenDown/37.avif"
+    },
+    {
+        "id": "38",
+        "name": "女裝 牛仔工作長裙 349991",
+        "price": "590",
+        "size": ["S", "M", "L", "XL"],
+        "rating": 4.9,
+        "ImageLocal": "WomenDown/38.avif"
+    },
+    {
+        "id": "39",
+        "name": "女裝 網路獨家-打摺寬褲+EC(褲長稍長:80cm) 349941",
+        "price": "790",
+        "size": ["XS", "S", "3XL" ],
+        "rating": 3.3,
+        "ImageLocal": "WomenDown/39.avif"
+    }
+]
